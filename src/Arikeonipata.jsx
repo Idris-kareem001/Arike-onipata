@@ -6,7 +6,7 @@ function Arikeonipata() {
   return (
     <div className="w-full">
       <div
-        className="w-full min-h-screen bg-cover bg-center bg-no-repeat flex flex-col px-3 py-4"
+        className="w-full min-h-screen bg-cover bg-center bg-no-repeat flex flex-col px-12 py-12"
         style={{ backgroundImage: `url(${bgImage})` }}
       >
         
@@ -16,7 +16,7 @@ function Arikeonipata() {
           </h2>
 
           <nav className="flex gap-8 text-lg font-medium">
-            <Link className="text-white hover:text-black hover:italic hover:underline hover:font-bold" to="/">Home</Link>
+            <Link className="text-blue-200 hover:text-black hover:italic hover:underline hover:font-bold" to="/">Home</Link>
             <Link className="text-white hover:text-black hover:italic hover:underline hover:font-bold" to="/shop">Shop</Link>
             <Link className="text-white hover:text-black hover:italic hover:underline hover:font-bold" to="/about">About us</Link>
             <Link className="text-white hover:text-black hover:italic hover:underline hover:font-bold" to="/contact">Contact</Link>
