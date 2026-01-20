@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="w-full">
       
-      <div className="flex justify-between items-center w-full px-6 py-4 bg-gray-800 shadow-md">
+      <div className="flex justify-between items-center w-full py-4 bg-gray-800 shadow-md">
         <h2 className="text-white text-3xl italic font-bold">
           Arike-Onipata
         </h2>
