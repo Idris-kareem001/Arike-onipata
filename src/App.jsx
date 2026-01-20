@@ -1,5 +1,5 @@
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import Arikeonipata from "./pages/Home";
+import Arikeonipata from "./Arikeonipata";
 import Shop from "./pages/Shop";
 import About from "./About";
 import Contact from "./pages/Contact";
